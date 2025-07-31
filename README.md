@@ -133,7 +133,7 @@ Developed by:
 
 - **B. Chaitanya**
 
-- GitHub: [bchaitanya92](https://github.com/bchaitanya92)
-- LinkedIn: [BOURISETTI CHAITANYA](https://www.linkedin.com/in/b-chaitanya/)
+- GitHub: [Pranavramesh13](https://github.com/Pranavramesh13)
+- LinkedIn: [Pranav Ramesh](https://www.linkedin.com/in/Pranavramesh13)
 
 *Feel free to explore, modify, and experiment with the code for your learning and projects. Contributions and feedback are always welcome!*
