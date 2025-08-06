@@ -131,7 +131,7 @@ SIXTH-HAND-main/
 
 Developed by:
 
-- **B. Chaitanya**
+- **PRANAV RAMESH**
 
 - GitHub: [Pranavramesh13](https://github.com/Pranavramesh13)
 - LinkedIn: [Pranav Ramesh](https://www.linkedin.com/in/Pranavramesh13)
